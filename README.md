@@ -46,5 +46,6 @@ Usage of BlackEye for attacking targets without prior mutual consent is illegal.
 ```
 git clone https://github.com/L0v3P01s0n/blackeye-without-ngrok
 cd blackeye
-./blackeye
+chmod +x blackeye
+sudo ./blackeye
 ```
