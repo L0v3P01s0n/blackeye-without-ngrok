@@ -1,3 +1,10 @@
+## BLACKEYE v1.5.1
+### DOWNGRADE :
+##### Removed ngrok support
+##### The tool can be used locally now
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 ## BLACKEYE v1.5
 ### UPDATES :
 ##### Added 10 new websites from the Pro version!
@@ -5,7 +12,6 @@
 ####  FOR ANY SUGGESTION CONTACT :@suljot_gjoka on Instagram!
 
 -----------------------------------------------------------------------------------------------------------------------------
-
 
 ## BLACKEYE v1.2
 ### UPDATES :
@@ -38,13 +44,7 @@ Usage of BlackEye for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/blackeye
+git clone https://github.com/L0v3P01s0n/blackeye-without-ngrok
 cd blackeye
-bash blackeye.sh
+./blackeye
 ```
-
-
-### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
